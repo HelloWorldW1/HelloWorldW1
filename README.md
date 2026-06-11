@@ -70,12 +70,12 @@
 
   <hr>
 
-  <h2><img src="https://raw.githubusercontent.com/TABLER/tabler-icons/master/icons/book.svg" width="22" height="22" valign="middle" style="filter: brightness(0) invert(1); color: purple;"> Хочу изучить</h2>
+  <h2>I want to learn</h2>
 
   <table border="0">
     <tr>
       <td valign="top" style="border: 1px solid #30363d; padding: 10px; border-radius: 6px;">
-        <sub><b>Языки</b></sub><br><br>
+        <sub><b>Languages</b></sub><br><br>
         <table border="0">
           <tr>
             <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="40" height="40"><br><sub><b>Rust</b></sub></td>
@@ -87,7 +87,7 @@
       </td>
       <td width="20"></td>
       <td valign="top" style="border: 1px solid #30363d; padding: 10px; border-radius: 6px;">
-        <sub><b>Библиотеки и Фреймворки</b></sub><br><br>
+        <sub><b>rameworks & Libraries</b></sub><br><br>
         <table border="0">
           <tr>
             <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"><br><sub><b>React</b></sub></td>
