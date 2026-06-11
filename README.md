@@ -89,7 +89,7 @@
         <table border="0">
           <tr>
             <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"><br><sub><b>React</b></sub></td>
-            <td align="center" width="100"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/minecraft.svg" width="40" height="40" style="filter: brightness(0) invert(1); color: purple;"><br><sub><b>Paper</b></sub></td>
+            <td align="center" width="100"><img src="https://raw.githubusercontent.com/PrismLauncher/PrismLauncher/develop/launcher/resources/multimc/scalable/minecraft.svg" width="40" height="40" style="filter: brightness(0) invert(1); color: purple;"><br><sub><b>Paper</b></sub></td>
           </tr>
         </table>
       </td>
