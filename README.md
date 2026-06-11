@@ -2,7 +2,7 @@
 
 ## 🚀 Мой стек
 
-![My Skills](https://skillicons.dev/icons?i=cs,kotlin,python,java)
+![My Skills](        https://skillicons.dev/icons?i=cs,kotlin,python,java)
 
 ## 💻 IDE
 
