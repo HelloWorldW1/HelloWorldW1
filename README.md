@@ -28,15 +28,15 @@
   <table border="0">
     <tr>
       <td align="center" width="150" border="0">
-        <img src="https://img.shields.io/badge/discord.py-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"><br>
+        <img src="https://skillicons.dev/icons?i=discord" width="50" height="50"><br>
         <sub><b>discord.py</b></sub>
       </td>
       <td align="center" width="150" border="0">
-        <img src="https://img.shields.io/badge/discord.NET-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white"><br>
+        <img src="https://skillicons.dev/icons?i=dotnet" width="50" height="50"><br>
         <sub><b>discord.NET</b></sub>
       </td>
       <td align="center" width="150" border="0">
-        <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/><br>
+        <img src="https://skillicons.dev/icons?i=compose" width="50" height="50"/><br>
         <sub><b>Jetpack Compose</b></sub>
       </td>
     </tr>
