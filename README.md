@@ -60,7 +60,7 @@
         <sub><b>Windows 11</b></sub>
       </td>
       <td align="center" width="150" border="0">
-        <img src="https://raw.githubusercontent.com/TABLER/tabler-icons/master/icons/brand-github.svg" width="50" height="50" style="background-color: white; border-radius: 50%; padding: 5px;"><br>
+        <img src="https://skillicons.dev/icons?i=github" width="50" height="50" style="background-color: white; border-radius: 50%; padding: 5px;"><br>
         <sub><b>GitHub</b></sub>
       </td>
     </tr>
