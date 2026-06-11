@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h2><img src="https://raw.githubusercontent.com/TABLER/tabler-icons/master/icons/code.svg" width="22" height="22" valign="middle" style="filter: brightness(0) invert(1); color: purple;"> Languages</h2>
+  <h2>Languages</h2>
   <table border="0">
     <tr>
       <td align="center" width="150" border="0">
@@ -24,7 +24,7 @@
 
   <hr>
 
-  <h2><img src="https://raw.githubusercontent.com/TABLER/tabler-icons/master/icons/box.svg" width="22" height="22" valign="middle" style="filter: brightness(0) invert(1); color: purple;"> Фреймворки и Библиотеки</h2>
+  <h2>Frameworks & Libraries</h2>
   <table border="0">
     <tr>
       <td align="center" width="150" border="0">
@@ -44,7 +44,7 @@
 
   <hr>
 
-  <h2><img src="https://www.streamlinehq.com/icons/download/3d-print-monitor--23589" width="22" height="22" valign="middle" style="filter: brightness(0) invert(1); color: purple;"> ОС и Софт</h2>
+  <h2>OS & Software</h2>
   <table border="0">
     <tr>
       <td align="center" width="150" border="0">
@@ -89,7 +89,7 @@
         <table border="0">
           <tr>
             <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"><br><sub><b>React</b></sub></td>
-            <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/minecraft/minecraft-original.svg" width="40" height="40" style="filter: brightness(0) invert(1); color: purple;"><br><sub><b>Paper</b></sub></td>
+            <td align="center" width="100"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/minecraft.svg" width="40" height="40" style="filter: brightness(0) invert(1); color: purple;"><br><sub><b>Paper</b></sub></td>
           </tr>
         </table>
       </td>
