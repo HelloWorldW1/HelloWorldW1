@@ -28,7 +28,7 @@
   <table border="0">
     <tr>
       <td align="center" width="150" border="0">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordpy/discordpy-original.svg" width="50" height="50"><br>
+        <img src="https://img.shields.io/badge/discord.py-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" width="50" height="50"><br>
         <sub><b>discord.py</b></sub>
       </td>
       <td align="center" width="150" border="0">
