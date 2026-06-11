@@ -1,48 +1,102 @@
-# Привет! 👋
+<!-- ЯЗЫКИ -->
+<h2><img src="https://raw.githubusercontent.com/TABLER/tabler-icons/master/icons/code.svg" width="22" height="22" valign="middle"> Языки</h2>
+<table border="0">
+  <tr>
+    <td align="center" width="150" border="0">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" height="50"><br>
+      <sub><b>C#</b></sub>
+    </td>
+    <td align="center" width="150" border="0">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"><br>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="150" border="0">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50"><br>
+      <sub><b>Java</b></sub>
+    </td>
+    <td align="center" width="150" border="0">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="50" height="50"><br>
+      <sub><b>Kotlin</b></sub>
+    </td>
+  </tr>
+</table>
 
----
+<hr>
 
-## 💻 Языки
-<p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-</p>
+<!-- ФРЕЙМВОРКИ И БИБЛИОТЕКИ -->
+<h2><img src="https://raw.githubusercontent.com/TABLER/tabler-icons/master/icons/box.svg" width="22" height="22" valign="middle"> Фреймворки и Библиотеки</h2>
+<table border="0">
+  <tr>
+    <td align="center" width="150" border="0">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg" width="50" height="50"><br>
+      <sub><b>discord.py</b></sub>
+    </td>
+    <td align="center" width="150" border="0">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="50" height="50"><br>
+      <sub><b>discord.NET</b></sub>
+    </td>
+    <td align="center" width="150" border="0">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="50" height="50"><br>
+      <sub><b>Jetpack Compose</b></sub>
+    </td>
+  </tr>
+</table>
 
----
+<hr>
 
-## 📦 Фреймворки и Библиотеки
-<p align="left">
-  <img src="https://img.shields.io/badge/discord.py-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="discord.py"/>
-  <img src="https://img.shields.io/badge/discord.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="discord.NET"/>
-  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="Jetpack Compose"/>
-</p>
+<!-- ОС И СОФТ -->
+<h2><img src="https://raw.githubusercontent.com/TABLER/tabler-icons/master/icons/device-desktop.svg" width="22" height="22" valign="middle"> ОС и Софт</h2>
+<table border="0">
+  <tr>
+    <td align="center" width="150" border="0">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50"><br>
+      <sub><b>VS Code</b></sub>
+    </td>
+    <td align="center" width="150" border="0">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="50" height="50"><br>
+      <sub><b>Android Studio</b></sub>
+    </td>
+    <td align="center" width="150" border="0">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="50" height="50"><br>
+      <sub><b>Windows 11</b></sub>
+    </td>
+    <td align="center" width="150" border="0">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50"><br>
+      <sub><b>GitHub</b></sub>
+    </td>
+  </tr>
+</table>
 
----
+<hr>
 
-## 🖥️ ОС и Софт
-<p align="left">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
-  <img src="https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows-11&logoColor=white" alt="Windows 11"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</p>
+<!-- ХОЧУ ИЗУЧИТЬ -->
+<h2><img src="https://raw.githubusercontent.com/TABLER/tabler-icons/master/icons/book.svg" width="22" height="22" valign="middle"> Хочу изучить</h2>
 
----
-
-## 📖 Хочу изучить
-
-### Языки
-<p align="left">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-</p>
-
-### Библиотеки и Фреймворки
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Paper-Переименуй_Меня-gray?style=for-the-badge&logo=gitbook&logoColor=white" alt="Paper"/>
-</p>
+<table border="0">
+  <tr>
+    <!-- Подтаблица Языки -->
+    <td valign="top" style="border: 1px solid #30363d; padding: 10px; border-radius: 6px;">
+      <sub><b>Языки</b></sub><br><br>
+      <table border="0">
+        <tr>
+          <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="40" height="40"><br><sub><b>Rust</b></sub></td>
+          <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"><br><sub><b>HTML</b></sub></td>
+          <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"><br><sub><b>CSS</b></sub></td>
+          <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"><br><sub><b>JavaScript</b></sub></td>
+        </tr>
+      </table>
+    </td>
+    <!-- Отступ между блоками -->
+    <td width="20"></td>
+    <!-- Подтаблица Библиотеки -->
+    <td valign="top" style="border: 1px solid #30363d; padding: 10px; border-radius: 6px;">
+      <sub><b>Библиотеки и Фреймворки</b></sub><br><br>
+      <table border="0">
+        <tr>
+          <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"><br><sub><b>React</b></sub></td>
+          <td align="center" width="100"><img src="https://raw.githubusercontent.com/TABLER/tabler-icons/master/icons/brand-gitbook.svg" width="40" height="40"><br><sub><b>Paper</b></sub></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
