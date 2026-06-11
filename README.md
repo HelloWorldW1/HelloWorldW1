@@ -36,7 +36,7 @@
         <sub><b>discord.NET</b></sub>
       </td>
       <td align="center" width="150" border="0">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" width="50" height="50"><br>
+        <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/><br>
         <sub><b>Jetpack Compose</b></sub>
       </td>
     </tr>
