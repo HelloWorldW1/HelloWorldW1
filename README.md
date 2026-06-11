@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h2><img src="https://raw.githubusercontent.com/TABLER/tabler-icons/master/icons/code.svg" width="22" height="22" valign="middle"> Языки</h2>
+  <h2><img src="file:///C:/Users/Admin/Downloads/Gemini_Generated_Image_g7zkzbg7zkzbg7zk.png" width="22" height="22" valign="middle"> Languages</h2>
   <table border="0">
     <tr>
       <td align="center" width="150" border="0">
