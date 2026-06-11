@@ -44,7 +44,7 @@
 
   <hr>
 
-  <h2><img src="https://raw.githubusercontent.com/TABLER/tabler-icons/master/icons/device-desktop.svg" width="22" height="22" valign="middle" style="filter: brightness(0) invert(1); color: purple;"> ОС и Софт</h2>
+  <h2><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" width="22" height="22" valign="middle" style="filter: brightness(0) invert(1); color: purple;"> ОС и Софт</h2>
   <table border="0">
     <tr>
       <td align="center" width="150" border="0">
