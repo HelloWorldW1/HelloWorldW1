@@ -68,7 +68,7 @@
 
   <hr>
 
-  <h2><img src="https://raw.githubusercontent.com/TABLER/tabler-icons/master/icons/book.svg" width="22" height="22" valign="middle"> Хочу изучить</h2>
+  <h2><img src="https://raw.githubusercontent.com/TABLER/tabler-icons/master/icons/book.svg](https://github.com/HelloWorldW1/icons22/blob/main/book.png" width="22" height="22" valign="middle"> Хочу изучить</h2>
 
   <table border="0">
     <tr>
