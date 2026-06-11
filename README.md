@@ -68,7 +68,7 @@
 
   <hr>
 
-  <h2><img src="https://github.com/HelloWorldW1/icons22/blob/main/book.png?raw=true" width="70" height="70" valign="middle"> Хочу изучить</h2>
+  <h2><img src="https://github.com/HelloWorldW1/icons22/blob/main/book.png?raw=true" width="70" height="20" valign="middle"> Хочу изучить</h2>
 
   <table border="0">
     <tr>
