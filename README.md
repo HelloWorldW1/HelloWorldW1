@@ -36,7 +36,7 @@
         <sub><b>discord.NET</b></sub>
       </td>
       <td align="center" width="150" border="0">
-        <img src="https://skillicons.dev/icons?i=compose" width="50" height="50"/><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" width="50" height="50"/><br>
         <sub><b>Jetpack Compose</b></sub>
       </td>
     </tr>
@@ -89,7 +89,7 @@
         <table border="0">
           <tr>
             <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"><br><sub><b>React</b></sub></td>
-            <td align="center" width="100"><img src="https://skillicons.dev/icons?i=minecraft" width="40" height="40" style="filter: brightness(0) invert(1); color: purple;"><br><sub><b>Paper</b></sub></td>
+            <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/minecraft/minecraft-original.svg" width="40" height="40" style="filter: brightness(0) invert(1); color: purple;"><br><sub><b>Paper</b></sub></td>
           </tr>
         </table>
       </td>
