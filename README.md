@@ -60,7 +60,7 @@
         <sub><b>Windows 11</b></sub>
       </td>
       <td align="center" width="150" border="0">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50"><br>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.flaticon.com%2Fru%2Ffree-icon%2Fgithub-logo_25231&ved=0CBYQjRxqFwoTCKjOi7br_5QDFQAAAAAdAAAAABAF&opi=89978449" width="50" height="50"><br>
         <sub><b>GitHub</b></sub>
       </td>
     </tr>
@@ -68,7 +68,7 @@
 
   <hr>
 
-  <h2><img src="https://github.com/HelloWorldW1/icons22/blob/main/book.png?raw=true" width="22" height="22" valign="middle"> Хочу изучить</h2>
+  <h2><img src="https://github.com/HelloWorldW1/icons22/blob/main/book.png?raw=true" width="70" height="70" valign="middle"> Хочу изучить</h2>
 
   <table border="0">
     <tr>
