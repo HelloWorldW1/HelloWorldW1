@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h2><img src="file:///C:/Users/Admin/Downloads/Gemini_Generated_Image_g7zkzbg7zkzbg7zk.png" width="22" height="22" valign="middle"> Languages</h2>
+  <h2><img src="https://raw.githubusercontent.com/TABLER/tabler-icons/master/icons/code.svg" width="22" height="22" valign="middle" style="filter: brightness(0) invert(1); color: purple;"> Languages</h2>
   <table border="0">
     <tr>
       <td align="center" width="150" border="0">
@@ -24,7 +24,7 @@
 
   <hr>
 
-  <h2><img src="https://raw.githubusercontent.com/TABLER/tabler-icons/master/icons/box.svg" width="22" height="22" valign="middle"> Фреймворки и Библиотеки</h2>
+  <h2><img src="https://raw.githubusercontent.com/TABLER/tabler-icons/master/icons/box.svg" width="22" height="22" valign="middle" style="filter: brightness(0) invert(1); color: purple;"> Фреймворки и Библиотеки</h2>
   <table border="0">
     <tr>
       <td align="center" width="150" border="0">
@@ -44,7 +44,7 @@
 
   <hr>
 
-  <h2><img src="https://raw.githubusercontent.com/TABLER/tabler-icons/master/icons/device-desktop.svg" width="22" height="22" valign="middle"> ОС и Софт</h2>
+  <h2><img src="https://raw.githubusercontent.com/TABLER/tabler-icons/master/icons/device-desktop.svg" width="22" height="22" valign="middle" style="filter: brightness(0) invert(1); color: purple;"> ОС и Софт</h2>
   <table border="0">
     <tr>
       <td align="center" width="150" border="0">
@@ -60,7 +60,7 @@
         <sub><b>Windows 11</b></sub>
       </td>
       <td align="center" width="150" border="0">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.flaticon.com%2Fru%2Ffree-icon%2Fgithub-logo_25231&ved=0CBYQjRxqFwoTCKjOi7br_5QDFQAAAAAdAAAAABAF&opi=89978449" width="50" height="50"><br>
+        <img src="https://raw.githubusercontent.com/TABLER/tabler-icons/master/icons/brand-github.svg" width="50" height="50" style="background-color: white; border-radius: 50%; padding: 5px;"><br>
         <sub><b>GitHub</b></sub>
       </td>
     </tr>
@@ -68,7 +68,7 @@
 
   <hr>
 
-  <h2><img src="https://github.com/HelloWorldW1/icons22/blob/main/book.png?raw=true" width="50" height="50" valign="middle"> Хочу изучить</h2>
+  <h2><img src="https://raw.githubusercontent.com/TABLER/tabler-icons/master/icons/book.svg" width="22" height="22" valign="middle" style="filter: brightness(0) invert(1); color: purple;"> Хочу изучить</h2>
 
   <table border="0">
     <tr>
@@ -89,7 +89,7 @@
         <table border="0">
           <tr>
             <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"><br><sub><b>React</b></sub></td>
-            <td align="center" width="100"><img src="https://raw.githubusercontent.com/TABLER/tabler-icons/master/icons/brand-gitbook.svg" width="40" height="40"><br><sub><b>Paper</b></sub></td>
+            <td align="center" width="100"><img src="https://raw.githubusercontent.com/TABLER/tabler-icons/master/icons/send.svg" width="40" height="40" style="filter: brightness(0) invert(1); color: purple;"><br><sub><b>Paper</b></sub></td>
           </tr>
         </table>
       </td>
