@@ -28,7 +28,7 @@
   <table border="0">
     <tr>
       <td align="center" width="150" border="0">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg" width="50" height="50"><br>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordpy/discordpy-original.svg" width="50" height="50"><br>
         <sub><b>discord.py</b></sub>
       </td>
       <td align="center" width="150" border="0">
@@ -89,7 +89,7 @@
         <table border="0">
           <tr>
             <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"><br><sub><b>React</b></sub></td>
-            <td align="center" width="100"><img src="https://raw.githubusercontent.com/TABLER/tabler-icons/master/icons/send.svg" width="40" height="40" style="filter: brightness(0) invert(1); color: purple;"><br><sub><b>Paper</b></sub></td>
+            <td align="center" width="100"><img src="https://raw.githubusercontent.com/TABLER/tabler-icons/master/icons/send.svg](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.flaticon.com%2Fru%2Ffree-icon%2Fpaper-plane_17174795&ved=0CBYQjRxqFwoTCLCywdfv_5QDFQAAAAAdAAAAABAG&opi=89978449" width="40" height="40" style="filter: brightness(0) invert(1); color: purple;"><br><sub><b>Paper</b></sub></td>
           </tr>
         </table>
       </td>
