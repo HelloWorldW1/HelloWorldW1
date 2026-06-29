@@ -47,8 +47,8 @@
         <sub><b>VS Code</b></sub>
       </td>
       <td align="center" width="150" border="0">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="50" height="50"><br>
-        <sub><b>Android Studio</b></sub>
+        <img src="https://skillicons.dev/icons?i=idea" width="50" height="50"><br>
+        <sub><b>IntelliJ IDEA</b></sub>
       </td>
       <td align="center" width="150" border="0">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" width="50" height="50"><br>
@@ -60,7 +60,7 @@
       </td>
         <td align="center" width="150" border="0">
         <img src="https://skillicons.dev/icons?i=pycharm" width="50" height="50" style="background-color: white; border-radius: 50%; padding: 5px;"><br>
-        <sub><b>GitHub</b></sub>
+        <sub><b>PyCharm</b></sub>
       </td>
     </tr>
   </table>
