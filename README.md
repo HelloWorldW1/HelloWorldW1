@@ -25,29 +25,27 @@
   </table>
 
   <hr>
-
-  <h2>Frameworks & Libraries</h2>
-  <table border="0">
-    <tr>
-      <td align="center" width="150" border="0">
-        <img src="https://skillicons.dev/icons?i=discord" width="50" height="50"><br>
-        <sub><b>discord.py</b></sub>
-      </td>
-      <td align="center" width="150" border="0">
-        <img src="https://skillicons.dev/icons?i=dotnet" width="50" height="50"><br>
-        <sub><b>discord.NET</b></sub>
-      </td>
-      <td align="center" width="150" border="0">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" width="50" height="50"/><br>
-        <sub><b>Jetpack Compose</b></sub>
-      </td>
-      <tr>
-  <td align="center" width="150" border="0">
-    <img src="https://cdn.simpleicons.org/fastapi/009688" width="50" height="50"><br>
-    <sub><b>FastAPI</b></sub>
-  </td>
-    </tr>
-  </table>
+<h2>Frameworks & Libraries</h2>
+<table border="0">
+  <tr>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=discord" width="50" height="50"><br>
+      <sub><b>discord.py</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=dotnet" width="50" height="50"><br>
+      <sub><b>discord.NET</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" width="50" height="50"><br>
+      <sub><b>Jetpack Compose</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn.simpleicons.org/fastapi/009688" width="50" height="50"><br>
+      <sub><b>FastAPI</b></sub>
+    </td>
+  </tr>
+</table>
 
   <hr>
 
