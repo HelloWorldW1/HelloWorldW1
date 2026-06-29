@@ -16,11 +16,6 @@
       <td align="center" width="150" border="0">
         <img src="https://skillicons.dev/icons?i=java" width="50" height="50"><br>
         <sub><b>Java</b></sub>
-      </td>
-      <td align="center" width="150" border="0">
-        <img src="https://skillicons.dev/icons?i=kotlin" width="50" height="50"><br>
-        <sub><b>Kotlin</b></sub>
-      </td>
     </tr>
   </table>
 
@@ -35,11 +30,6 @@
     <td align="center" width="150">
       <img src="https://skillicons.dev/icons?i=dotnet" width="50" height="50"><br>
       <sub><b>discord.NET</b></sub>
-    </td>
-    <td align="center" width="150">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" width="50" height="50"><br>
-      <sub><b>Jetpack Compose</b></sub>
-    </td>
     <td align="center" width="150">
       <img src="https://cdn.simpleicons.org/fastapi/009688" width="50" height="50"><br>
       <sub><b>FastAPI</b></sub>
@@ -66,6 +56,10 @@
       </td>
       <td align="center" width="150" border="0">
         <img src="https://skillicons.dev/icons?i=github" width="50" height="50" style="background-color: white; border-radius: 50%; padding: 5px;"><br>
+        <sub><b>GitHub</b></sub>
+      </td>
+        <td align="center" width="150" border="0">
+        <img src="https://skillicons.dev/icons?i=pycharm" width="50" height="50" style="background-color: white; border-radius: 50%; padding: 5px;"><br>
         <sub><b>GitHub</b></sub>
       </td>
     </tr>
