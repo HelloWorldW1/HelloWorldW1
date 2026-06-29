@@ -1,5 +1,12 @@
 <div align="center">
 
+<p align="center">
+  <img
+    src="https://avatars.mds.yandex.net/i?id=5849f28fc0b45af023519020d1212abd_l-9181132-images-thumbs&n=13"
+    width="100%"
+  />
+</p>
+
 # Hi, i'm hello_world_w!
 
   <h2>Languages</h2>
