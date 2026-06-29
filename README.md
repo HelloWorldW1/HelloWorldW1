@@ -41,6 +41,11 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" width="50" height="50"/><br>
         <sub><b>Jetpack Compose</b></sub>
       </td>
+      <tr>
+  <td align="center" width="150" border="0">
+    <img src="https://cdn.simpleicons.org/fastapi/009688" width="50" height="50"><br>
+    <sub><b>FastAPI</b></sub>
+  </td>
     </tr>
   </table>
 
