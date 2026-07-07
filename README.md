@@ -74,32 +74,4 @@
 
   <hr>
 
-  <h2>I want to learn</h2>
-
-  <table border="0">
-    <tr>
-      <td valign="top" style="border: 1px solid #30363d; padding: 10px; border-radius: 6px;">
-        <sub><b>Languages</b></sub><br><br>
-        <table border="0">
-          <tr>
-            <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="40" height="40"><br><sub><b>Rust</b></sub></td>
-            <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"><br><sub><b>HTML</b></sub></td>
-            <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"><br><sub><b>CSS</b></sub></td>
-            <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"><br><sub><b>JavaScript</b></sub></td>
-          </tr>
-        </table>
-      </td>
-      <td width="20"></td>
-      <td valign="top" style="border: 1px solid #30363d; padding: 10px; border-radius: 6px;">
-        <sub><b>rameworks & Libraries</b></sub><br><br>
-        <table border="0">
-          <tr>
-            <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"><br><sub><b>React</b></sub></td>
-            <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/vscodedev/vscode-minecraft@master/resources/pack.png" width="40" height="40" style="filter: brightness(0) invert(1); color: purple;"><br><sub><b>Paper</b></sub></td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-
 </div>
